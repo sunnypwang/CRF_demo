@@ -1,3 +1,3 @@
-# CRF_demo
+# CRF for NER workshop
 
-COLAB https://colab.research.google.com/drive/1yavo-S_sSvGnh4oUuJ46d4cpsrUBILF9
+COLAB link https://colab.research.google.com/drive/1yavo-S_sSvGnh4oUuJ46d4cpsrUBILF9
